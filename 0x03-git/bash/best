@@ -1,2 +1,3 @@
 #!/bin/bash
+echo "This Scool is so cool!"
 echo "Best Scool"
